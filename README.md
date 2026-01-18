@@ -92,7 +92,7 @@ image_of_plants_in_the_hoop-20250805-173647.jpg
 
 **After cleaning + custom attributes:**
 ```
-Plot32_TreatmentA_20250805-173647.jpg
+Plot32_TreatmentA_20250805.jpg
 ```
 
 ## Performance Notes
